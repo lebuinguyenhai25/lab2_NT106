@@ -14,3 +14,4 @@ D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\r
 D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.pdb
 D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.genruntimeconfig.cache
 D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\ref\lab2_cau7.dll
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.sourcelink.json

@@ -1,10 +1,26 @@
-Họ và tên: lb
+Họ và tên: hh
 MSSV: 22520383
 Điện thoại: 0867579019
-Điểm môn 1: 5
-Điểm môn 2: 3
-Điểm môn 3: 4
-Điểm trung bình: 4
+Điểm môn 1: 4
+Điểm môn 2: 6
+Điểm môn 3: 5
+Điểm trung bình: 5
+
+Họ và tên: k
+MSSV: 12345678
+Điện thoại: 0123456789
+Điểm môn 1: 9
+Điểm môn 2: 6
+Điểm môn 3: 5
+Điểm trung bình: 6.6666665
+
+Họ và tên: o
+MSSV: 88888888
+Điện thoại: 0123456789
+Điểm môn 1: 9
+Điểm môn 2: 8
+Điểm môn 3: 8
+Điểm trung bình: 8.333333
 
 
 

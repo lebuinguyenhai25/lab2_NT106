@@ -1,29 +1,29 @@
 [
   {
-    "HoTen": "lb",
+    "HoTen": "hh",
     "MSSV": 22520383,
     "DienThoai": "0867579019",
-    "DiemMon1": 5,
-    "DiemMon2": 5,
+    "DiemMon1": 4,
+    "DiemMon2": 6,
     "DiemMon3": 5,
     "DiemTrungBinh": 5
   },
   {
-    "HoTen": "hhh",
-    "MSSV": 22520383,
-    "DienThoai": "0867579019",
+    "HoTen": "k",
+    "MSSV": 12345678,
+    "DienThoai": "0123456789",
     "DiemMon1": 9,
-    "DiemMon2": 9,
-    "DiemMon3": 9,
-    "DiemTrungBinh": 9
+    "DiemMon2": 6,
+    "DiemMon3": 5,
+    "DiemTrungBinh": 6.6666665
   },
   {
-    "HoTen": "helllo",
-    "MSSV": 22520383,
-    "DienThoai": "0867579019",
-    "DiemMon1": 7,
-    "DiemMon2": 7,
-    "DiemMon3": 7,
-    "DiemTrungBinh": 7
+    "HoTen": "o",
+    "MSSV": 88888888,
+    "DienThoai": "0123456789",
+    "DiemMon1": 9,
+    "DiemMon2": 8,
+    "DiemMon3": 8,
+    "DiemTrungBinh": 8.333333
   }
 ]

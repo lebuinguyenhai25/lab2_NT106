@@ -1,0 +1,16 @@
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\bin\Debug\net8.0-windows\lab2_cau7.exe
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\bin\Debug\net8.0-windows\lab2_cau7.deps.json
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\bin\Debug\net8.0-windows\lab2_cau7.runtimeconfig.json
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\bin\Debug\net8.0-windows\lab2_cau7.dll
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\bin\Debug\net8.0-windows\lab2_cau7.pdb
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.Form1.resources
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.csproj.GenerateResource.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.AssemblyInfoInputs.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.AssemblyInfo.cs
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.csproj.CoreCompileInputs.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.dll
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\refint\lab2_cau7.dll
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.pdb
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\lab2_cau7.genruntimeconfig.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\lab2_cau7\lab2_cau7\obj\Debug\net8.0-windows\ref\lab2_cau7.dll

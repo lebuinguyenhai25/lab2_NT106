@@ -1,0 +1,16 @@
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\bin\Debug\net8.0-windows\bai4_lab2.exe
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\bin\Debug\net8.0-windows\bai4_lab2.deps.json
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\bin\Debug\net8.0-windows\bai4_lab2.runtimeconfig.json
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\bin\Debug\net8.0-windows\bai4_lab2.dll
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\bin\Debug\net8.0-windows\bai4_lab2.pdb
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.Form1.resources
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.csproj.GenerateResource.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.AssemblyInfoInputs.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.AssemblyInfo.cs
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.csproj.CoreCompileInputs.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.dll
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\refint\bai4_lab2.dll
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.pdb
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\bai4_lab2.genruntimeconfig.cache
+D:\hk4\laptrinhmang\thuchanh\lab2\bai4_lab2\bai4_lab2\obj\Debug\net8.0-windows\ref\bai4_lab2.dll

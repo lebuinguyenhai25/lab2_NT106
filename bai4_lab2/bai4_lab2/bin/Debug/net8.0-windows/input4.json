@@ -1,0 +1,29 @@
+[
+  {
+    "HoTen": "lb",
+    "MSSV": 22520383,
+    "DienThoai": "0867579019",
+    "DiemMon1": 5,
+    "DiemMon2": 5,
+    "DiemMon3": 5,
+    "DiemTrungBinh": 5
+  },
+  {
+    "HoTen": "hhh",
+    "MSSV": 22520383,
+    "DienThoai": "0867579019",
+    "DiemMon1": 9,
+    "DiemMon2": 9,
+    "DiemMon3": 9,
+    "DiemTrungBinh": 9
+  },
+  {
+    "HoTen": "helllo",
+    "MSSV": 22520383,
+    "DienThoai": "0867579019",
+    "DiemMon1": 7,
+    "DiemMon2": 7,
+    "DiemMon3": 7,
+    "DiemTrungBinh": 7
+  }
+]
